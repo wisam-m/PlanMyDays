@@ -3,4 +3,7 @@ A smart iOS planner app aimed at increasing user productivity through time manag
 
 Screenshots from the app (still in development!):
 
-![alt text](PlanMyDays/Screenshot1.png)
+App taking input for a new Smart Task.
+
+| ![Alt text](Screenshot1.png?raw=true "Title") | ![Alt text](Screenshot2.png?raw=true "Title") | ![Alt text](Screenshot3.png?raw=true "Title") |
+|:---:|:---:|:---:|
