@@ -5,8 +5,8 @@ Screenshots from the app (still in development!):
 
 Home Page:
 
-| ![Alt text](HomeScreenshot.png?raw=true "Title") | ![Alt text](HomeScreenshot2.png?raw=true "Title") |
-|:---:|:---:|
+| ![Alt text](HomeScreenshot.png?raw=true "Title") | ![Alt text](HomeScreenshot2.png?raw=true "Title") | ![Alt text](HomeScreenshot3.png?raw=true "Title") |
+|:---:|:---:|:---:|
 
 App taking input for a new Smart Task(still in development!):
 
