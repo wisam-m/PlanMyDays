@@ -5,7 +5,7 @@ Screenshots from the app (still in development!):
 
 Home Page:
 
-| ![Alt text](HomeScreenshot.png?raw=true "Title") | ![Alt text](HomeScreenshot2.png?raw=true "Title") | ![Alt text](HomeScreenshot3.png?raw=true "Title") |
+| ![Alt text](https://github.com/wisam-m/PlanMyDays/blob/master/HomeScreenshot.png) | ![Alt text](https://github.com/wisam-m/PlanMyDays/blob/master/HomeScreenshot2.png) | ![Alt text](https://github.com/wisam-m/PlanMyDays/blob/master/HomeScreenshot3.png) |
 |:---:|:---:|:---:|
 
 
